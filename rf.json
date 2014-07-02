@@ -1,46 +1,46 @@
 {
   "actors": [
     {
-      "name": "Brad Pitt",
-      "description": "William Bradley 'Brad' Pitt is an American actor and film producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories",
-      "dob": "December 18, 1963",
+      "name": "50% off 2-Night Stay for 2 in Fish Creek Cabin Res...",
+      "description": "$250",
+      "dob": "$175",
       "country": "United States",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg"
+      "image": "http://androidexample.com/media/webservice/LazyListView_images/image5.png"
     },
     {
-      "name": "Tom Cruise",
-      "description": "Tom Cruise, is an American film actor and producer. He has been nominated for three Academy Awards and has won three Golden Globe Awards. He started his career at age 19 in the 1981 film Endless Love.",
-      "dob": "July 3, 1962",
+      "name": "$50 for $200 off at Heart Lake Waterfront Cottage...",
+      "description": "$175",
+      "dob": "$50",
       "country": "United States",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/cruise.jpg"
+      "image": "http://androidexample.com/media/webservice/LazyListView_images/image4.png"
     },
     {
-      "name": "Johnny Depp",
-      "description": "John Christopher 'Johnny' Depp II is an American actor, film producer, and musician. He has won the Golden Globe Award and Screen Actors Guild award for Best Actor.",
-      "dob": "June 9, 1963",
+      "name": "$50 for $200 off at Heart Lake Waterfront Cottages...",
+      "description": "$250",
+      "dob": "$165",
       "country": "United States",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/johnny.jpg"
+      "image": "http://androidexample.com/media/webservice/LazyListView_images/image7.png"
     },
     {
-      "name": "Angelina Jolie",
-      "description": "Angelina Jolie is an American actress, film director, screenwriter, and author. She has received an Academy Award, two Screen Actors Guild Awards, and three Golden Globe Awards.",
-      "dob": "June 4, 1975",
+      "name": "3-Day/2-Night Stay In New Orleans For 4",
+      "description": "$400",
+      "dob": "$200",
       "country": "United States",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/jolie.jpg"
+      "image": "http://androidexample.com/media/webservice/LazyListView_images/image3.png"
     },
     {
-      "name": "Tom Hanks",
-      "description": "Thomas Jeffrey 'Tom' Hanks is an American actor, producer, writer, and director. Hanks is best known for his roles in Big, A League of Their Own, Sleepless in Seattle, Forrest Gump, Apollo 13.",
-      "dob": "July 9, 1956",
+      "name": "3-Day/2-Night Stay In New Orleans For 4",
+      "description": "$200",
+      "dob": "$40",
       "country": "United States",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/tom.jpg"
+      "image": "http://androidexample.com/media/webservice/LazyListView_images/image8.png"
     },
     {
-      "name": "Will Smith",
-      "description": "Willard Carroll 'Will' Smith, Jr. is an American actor, producer, and rapper. He has enjoyed success in television, film, and music.",
-      "dob": "September 25, 1968",
+      "name": "$50 for $200 off at Heart Lake Waterfront Cottages...",
+      "description": "$239",
+      "dob": "$140",
       "country": "United States",
-      "image": "http://microblogging.wingnity.com/JSONParsingTutorial/will.jpg"
+      "image": "http://androidexample.com/media/webservice/LazyListView_images/image9.png"
     }
   ]
 }
